@@ -124,17 +124,10 @@ manuscript Methods) and is **unchanged**.
 Citation metadata is in `CITATION.cff`; GitHub will auto-render a
 "Cite this repository" button.
 
-If you use this code or dataset, please cite the paper as published
-(provisional):
-
-> Kim, J.; Yoo, J.; Shin, M.; Kim, S.; Park, J.; Yoo, J.;
-> Kim, M.-K.; Lee, D.-H.; Kang, K. *Machine Learning Extracts Molecular
-> Design Rules for Colorimetric Chemical Warfare Agent Detection.*
-> J. Am. Chem. Soc. **2026**, *XX*, XXXX–XXXX.
 
 ---
 
 ## Contact
 
 Ku Kang — bisu9082@gmail.com
-CBRN Defense Research Institute, Department of Chemistry, Myongji University
+CBRN Defense Research Institute, ROK Army Defense, Republic of Korea
