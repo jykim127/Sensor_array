@@ -3,7 +3,7 @@
 Reproducibility package for:
 
 > **Machine Learning Extracts Molecular Design Rules for Colorimetric Chemical Warfare Agent Detection**
-> Kim *et al.*, submitted to *J. Am. Chem. Soc.*, 2026.
+> Kim *et al.*, submitted to *ACS Central Science*, 2026.
 
 This repository regenerates every quantitative claim in the manuscript:
 RDKit-anchored canonical SMILES, RandomForestClassifier 10-fold cross-validation
