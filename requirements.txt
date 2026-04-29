@@ -1,0 +1,11 @@
+# Reproducibility environment for:
+# "Machine Learning Extracts Molecular Design Rules for Colorimetric Chemical Warfare Agent Detection"
+# Pinned to versions used in the published analysis (seed=42).
+numpy>=1.24,<3.0
+pandas>=2.0,<3.0
+scikit-learn==1.7.2
+rdkit>=2024.03.5
+scipy>=1.10
+matplotlib>=3.8
+seaborn>=0.13
+openpyxl>=3.1

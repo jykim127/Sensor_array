@@ -1,0 +1,80 @@
+cff-version: 1.2.0
+message: "If you use this code, dataset, or trained model in your work, please cite the manuscript and (optionally) this repository as listed below."
+title: "Sensor_array — reproducibility package for ML-derived design rules for colorimetric CWA detection"
+authors:
+  - family-names: "Kim"
+    given-names: "Jeongyun"
+    affiliation: "Department of Chemical and Biological Engineering, Seoul National University"
+  - family-names: "Yoo"
+    given-names: "Jin"
+    affiliation: "CBRN Defense Research Institute, Department of Chemistry, Myongji University"
+  - family-names: "Shin"
+    given-names: "Myeongsik"
+    affiliation: "CBRN Defense Research Institute, Department of Chemistry, Myongji University"
+  - family-names: "Kim"
+    given-names: "Soohwan"
+    affiliation: "CBRN Defense Research Institute, Department of Chemistry, Myongji University"
+  - family-names: "Park"
+    given-names: "Jinhee"
+    affiliation: "CBRN Defense Research Institute, Department of Chemistry, Myongji University"
+  - family-names: "Yoo"
+    given-names: "Jun"
+    affiliation: "CBRN Defense Research Institute, Department of Chemistry, Myongji University"
+  - family-names: "Kim"
+    given-names: "Min-Kun"
+    affiliation: "Department of Materials Science and Engineering, Myongji University"
+    email: "m.k.kim@mju.ac.kr"
+  - family-names: "Lee"
+    given-names: "Doo-Hee"
+    affiliation: "CBRN Defense Research Institute, Department of Chemistry, Myongji University"
+    email: "dooheeleechem@gmail.com"
+  - family-names: "Kang"
+    given-names: "Ku"
+    affiliation: "CBRN Defense Research Institute, Department of Chemistry, Myongji University"
+    email: "bisu9082@gmail.com"
+license: "MIT"
+license-url: "https://opensource.org/licenses/MIT"
+url: "https://github.com/jykim127/Sensor_array"
+repository-code: "https://github.com/jykim127/Sensor_array"
+version: "1.0.0"
+date-released: "2026-04-28"
+keywords:
+  - chemical warfare agents
+  - Novichok
+  - colorimetric sensor array
+  - machine learning
+  - cheminformatics
+  - random forest
+  - message-passing neural network
+  - DFT
+  - rational dye design
+
+preferred-citation:
+  type: article
+  title: "Machine Learning Extracts Molecular Design Rules for Colorimetric Chemical Warfare Agent Detection"
+  authors:
+    - family-names: "Kim"
+      given-names: "Jeongyun"
+    - family-names: "Yoo"
+      given-names: "Jin"
+    - family-names: "Shin"
+      given-names: "Myeongsik"
+    - family-names: "Kim"
+      given-names: "Soohwan"
+    - family-names: "Park"
+      given-names: "Jinhee"
+    - family-names: "Yoo"
+      given-names: "Jun"
+    - family-names: "Kim"
+      given-names: "Min-Kun"
+    - family-names: "Lee"
+      given-names: "Doo-Hee"
+    - family-names: "Kang"
+      given-names: "Ku"
+  journal: "Journal of the American Chemical Society"
+  year: 2026
+  volume: "XX"
+  start: "XXXX"
+  end: "XXXX"
+  doi: ""
+  url: ""
