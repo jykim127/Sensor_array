@@ -1,0 +1,68 @@
+{
+  "seed": 42,
+  "training_pairs": 368,
+  "holdout_pairs": 80,
+  "cv_mean_auc": 0.88,
+  "cv_sd_auc": 0.058,
+  "cv_mean_BA": 0.777,
+  "cv_sd_BA": 0.058,
+  "cv_mean_Prec": 0.8,
+  "cv_sd_Prec": 0.068,
+  "cv_mean_Rec": 0.804,
+  "cv_sd_Rec": 0.123,
+  "youden_theta": 0.613,
+  "holdout_AUC": 0.619,
+  "holdout_accuracy_pct": 68.8,
+  "sweet_spot": {
+    "dye_LogP_IQR": [
+      1.97,
+      4.78
+    ],
+    "dye_LogP_median": 3.44,
+    "deltaLogP_IQR": [
+      0.78,
+      3.03
+    ],
+    "deltaLogP_median": 1.55,
+    "sumTPSA_IQR": [
+      74.7,
+      125.7
+    ],
+    "sumTPSA_median": 98.2
+  },
+  "centroids": {
+    "G-agents": [
+      1.87,
+      115.0
+    ],
+    "V-agents": [
+      1.57,
+      108.1
+    ],
+    "Novichok": [
+      1.91,
+      121.3
+    ],
+    "Vesicants": [
+      1.86,
+      80.7
+    ],
+    "Blood": [
+      3.27,
+      102.6
+    ],
+    "Choking": [
+      2.17,
+      112.9
+    ]
+  },
+  "top6_dyes": [
+    22,
+    27,
+    19,
+    13,
+    26,
+    25
+  ],
+  "minimal_array_coverage_pct": 100.0
+}

@@ -1,0 +1,22 @@
+{
+  "cv_mean_auc": 0.852,
+  "cv_sd_auc": 0.083,
+  "cv_mean_ba": 0.759,
+  "cv_sd_ba": 0.095,
+  "cv_mean_prec": 0.791,
+  "cv_sd_prec": 0.117,
+  "cv_mean_rec": 0.779,
+  "cv_sd_rec": 0.1,
+  "holdout_auc": 0.469,
+  "holdout_acc_pct": 47.5,
+  "arch": "MPNN(h=96, n_rounds=3)",
+  "cv_folds": 10,
+  "cv_epochs": 12,
+  "final_epochs": 15,
+  "batch_size": 32,
+  "seed": 42,
+  "optimizer": "Adam(lr=1e-3, wd=1e-4)",
+  "pos_weight_balanced": true,
+  "dropout": 0.2,
+  "readout": "mean+max"
+}
